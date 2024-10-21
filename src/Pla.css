@@ -1,0 +1,33 @@
+.player{
+    background-color: #D2FF72;
+    height: 100vh;
+    width: 100vw;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.play{
+    background-color: #73EC8B;
+    border-radius: 5%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border: 0.1px solid white;
+    height: 600px;
+    width: 400px;
+    gap:20px;
+    box-shadow: 4px 4px 10px black
+}
+
+.size{
+    width: 10vh ;
+    height: 10vh;
+}
+
+.ton{
+    background: none;
+    border: 0;
+}
+
